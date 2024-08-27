@@ -5,13 +5,13 @@ antora:
   dir: www
   modules:
     - name: index
-      label: Module 1
+      label: Log into the Web Console
     - name: module-02
-      label: Module 2
+      label: View metrics and history
     - name: module-03
-      label: Module 3
+      label: Generate a CPU-hot workload
     - name: module-04
-      label: Module 4
+      label: CPU performance at-a-glance
 tabs:
   - name: terminal
     port: 443
