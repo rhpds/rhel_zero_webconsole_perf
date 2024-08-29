@@ -4,9 +4,9 @@ a new browser tab or window.
 
 [cols="1,1,1"]
 |===
-|Username
-|Password
-|Red Hat Enterprise Linux Web Console
+|*Username*
+|*Password*
+|*Red Hat Enterprise Linux Web Console*
 
 |{cockpit_user_name}
 |{cockpit_user_password}
