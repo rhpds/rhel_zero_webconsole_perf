@@ -10,7 +10,7 @@ a new browser tab or window.
 
 |{cockpit_user_name}
 |{cockpit_user_password}
-|{cockpit_url}[Red Hat Enterprise Linux Web Console^]
+|{cockpit_url}[RHEL Web Console^]
 
 |===
 
