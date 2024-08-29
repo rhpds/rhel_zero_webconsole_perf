@@ -2,9 +2,17 @@ Click on the link below titled *RHEL Web Console*, this will open the lab system
 a new browser tab or window.
 
 
-{cockpit_url}[Red Hat Enterprise Linux Web Console Cockpit^]
-Console Username: {cockpit_user_name} 
-Console Password: {cockpit_user_password}
+[cols="1,1,1"]
+|===
+|Username
+|Password
+|Red Hat Enterprise Linux Web Console
+
+|{cockpit_user_name}
+|{cockpit_user_password}
+|{cockpit_url}[Red Hat Enterprise Linux Web Console^]
+
+|===
 
 .web console
 image::pop-out-2.png[web console]
