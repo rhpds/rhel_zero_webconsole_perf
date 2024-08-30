@@ -1,3 +1,5 @@
+*Generate a CPU-hot workload*
+
 *stress-ng* can stress various system resources such as CPU, cache,
 disk, memory, socket pipe I/O, scheduling and much more.
 
