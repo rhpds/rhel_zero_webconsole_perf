@@ -1,3 +1,5 @@
+*Log into the Web Console*
+
 Click on the link below titled *RHEL Web Console*, this will open the lab system’s Web Console in
 a new browser tab or window.
 
