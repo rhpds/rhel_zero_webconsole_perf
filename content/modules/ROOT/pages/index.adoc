@@ -14,9 +14,6 @@ a new browser tab or window.
 
 |===
 
-.web console
-image::pop-out-2.png[web console]
-
 Click `+Advanced+`
 
 .Connection not private
@@ -30,8 +27,8 @@ image::proceed.png[Proceed]
 Once the login page is presented, use the following credentials to log
 into the Web Console:
 
-Username: *rhel* +
-Password: *redhat*
+*Username:* {cockpit_user_name}
+*Password:* {cockpit_user_password}
 
 .Web Console Login
 image::Web-console-login.png[Web Console Login]
@@ -43,12 +40,3 @@ Click `+Turn on administrative access+`.
 
 .admin access
 image::turn-on-admin.png[admin access]
-
-Next do the following:
-
-[arabic]
-. Enter the password: *redhat*
-. Click `+Authenticate+`
-
-.auth
-image::auth.png[auth]
