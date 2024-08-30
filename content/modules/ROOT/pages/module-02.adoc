@@ -1,3 +1,5 @@
+*View metrics and history*
+
 Now that you are logged into the Web Console, Navigate to the Overview
 system *Usage* section, and select *View metrics and history*.
 
