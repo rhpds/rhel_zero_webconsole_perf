@@ -9,6 +9,7 @@ of the lab, we will use the CPU-intensive matrix stressor, which is one
 of the many tests that heats CPUs the best.
 
 Using the terminal window, the stress-ng matrix stressor -
+
 .Command
 [source,bash,subs="+macros,+attributes",role=execute]
 ----
@@ -17,6 +18,7 @@ stress-ng --matrix 0 -t 45s
 
 The stressor should run for a 45-second duration and will drive up CPU
 utilization across both the v-CPUs on the instance.
+
 .Output
 [source,text]
 ----
