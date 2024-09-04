@@ -3,5 +3,5 @@
 Now that you are logged into the Web Console, Navigate to the Overview
 system *Usage* section, and select *View metrics and history*.
 
-.Navigate to Software Updates
+.Navigate to View metrics and history
 image::Nav-Updates-Perf.png[Navigate to View metrics and history]
